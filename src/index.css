@@ -56,4 +56,10 @@
   body {
     @apply bg-background text-foreground font-[Poppins];
   }
+  html {
+    @apply antialiased;
+  }
+  html.dark {
+    @apply bg-background text-foreground;
+  }
 }
