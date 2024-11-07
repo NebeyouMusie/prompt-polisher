@@ -1,4 +1,4 @@
-# Welcome to your GPT Engineer project
+# Prompt Enhancer
 
 ## Project info
 
