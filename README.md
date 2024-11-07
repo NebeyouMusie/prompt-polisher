@@ -1,4 +1,4 @@
-# Prompt Enhancer
+# Prompt-Enhancer
 
 ## Project info
 
